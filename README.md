@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkaefer&theme=darcula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![tkaefer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tkaefer)](https://github.com/anuraghazra/github-readme-stats)
+[![tkaefer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tkaefer&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
